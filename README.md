@@ -1,6 +1,6 @@
 # Разработка ПО систем управления — 2019
 
-## СБорка в Windows (Markdown → HTML)
+## Сборка в Windows (Markdown → HTML)
 
 1. [Установить Make](https://stackoverflow.com/a/54086635)
 2. [Установить Pandoc](https://pandoc.org/installing.html)
